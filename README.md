@@ -1,1 +1,1 @@
-# Temirlan__Meiramkhanov
+# Temirlan, Arlan, Zhanibek
