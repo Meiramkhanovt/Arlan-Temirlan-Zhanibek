@@ -1,1 +1,1 @@
-# Temirlan, Arlan, Zhanibek
+# Arlan, Temirlan, Zhanibek
