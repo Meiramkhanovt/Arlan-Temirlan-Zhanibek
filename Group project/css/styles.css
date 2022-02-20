@@ -1,0 +1,142 @@
+.icons{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+.aboutImg{
+    width: 1020px;
+    height: auto;
+}
+.body {
+    background-color: #fef5ef;
+}
+.imgHome{
+    width: 1000px;
+    height: 562px;
+}
+
+section{
+    margin-top: 40px;
+}
+#features{
+    margin-top: 50px;
+}
+.hr {
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: -15px;
+    border-width: thin;
+    height: 3px;
+}
+.img2{
+    width: 240px;
+}
+.text-center
+{
+    padding-top: 50px;
+    margin-bottom: 25px;
+    font-family: 'Lobster', cursive;
+}
+.navbar{
+    margin-top: -75px;
+}
+.img{
+    margin-top: 20px;
+    width: 940px;
+    height: auto;
+}
+.thumbnail {
+    border: 0 none;
+    box-shadow: none;
+}
+.textCursive{
+    font-family: 'Lobster', cursive;
+}
+.text2
+{
+    font-size:16px;
+    font-family: 'Roboto Serif', sans-serif;
+}
+@media (max-width:720px){
+    .text2{
+        font-size:13px;
+    }
+    .nav-link1{
+        margin-top: -20px;
+    }
+    .nav-link2{
+        margin-top: -60px;
+    }
+    .nav-link3{
+        margin-top: -80px;
+    }
+}
+.idk2{
+    margin-top: -40px;
+}
+.col{
+    margin-left: 100px;
+    margin-bottom: 85px;
+}
+.temir{
+    margin-left: 672px;
+    margin-top: -495px;
+}
+.temirl{
+    margin-left: 230px;
+    margin-bottom: -48px;
+}
+.name1{
+    margin-left: 100px;
+    padding-top: 50px;
+    margin-bottom: 25px;
+    font-family: 'Lobster', cursive;
+}
+.name2{
+    margin-left: 25px;
+    padding-top: 50px;
+    margin-bottom: 25px;
+    font-family: 'Lobster', cursive;
+}
+.name3{
+    margin-left: 60px;
+    padding-top: 50px;
+    margin-bottom: 25px;
+    font-family: 'Lobster', cursive;
+}
+.name4{
+    margin-left: 50px;
+    padding-top: 50px;
+    margin-bottom: 25px;
+    font-family: 'Lobster', cursive;
+}
+.name5{
+    margin-left: 28px;
+    padding-top: 50px;
+    margin-bottom: 25px;
+    font-family: 'Lobster', cursive;
+}
+.name6{
+    margin-left: 2px;
+    padding-top: 50px;
+    margin-bottom: 25px;
+    font-family: 'Lobster', cursive;
+}
+.name7{
+    margin-left: 30px;
+    padding-top: 50px;
+    margin-bottom: 25px;
+    font-family: 'Lobster', cursive;
+}
+.name8{
+    margin-left: -18px;
+    padding-top: 50px;
+    margin-bottom: 25px;
+    font-family: 'Lobster', cursive;
+}
+.name9{
+    margin-left: -50px;
+    padding-top: 50px;
+    margin-bottom: 25px;
+    font-family: 'Lobster', cursive;
+}
