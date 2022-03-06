@@ -1,1 +1,0 @@
-# Arlan-Temirlan-Zhanibek
